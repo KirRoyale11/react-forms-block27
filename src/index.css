@@ -1,0 +1,23 @@
+body {
+    background-color:darkblue;
+    color:lightblue;
+    display: flex;
+    justify-content:center;
+
+}
+
+#root {
+ border: 5px solid aqua;
+ padding: 10px;
+ display: flex-column;
+ align-items:center;
+ justify-content: space-around;
+}
+
+.button {
+    font-weight: bold;
+    border-radius: 20px;
+    background-color:aqua
+    
+
+}

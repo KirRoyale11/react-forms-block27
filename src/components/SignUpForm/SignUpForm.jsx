@@ -62,7 +62,7 @@ function SignUpForm({ setToken }) {
           }}/>
         </label>
         <br />
-        <button >Submit</button>
+        <button className="button">Submit</button>
         {/* ALTERNATE: <input type="submit" value="" /> */}
       </form>
     </>
